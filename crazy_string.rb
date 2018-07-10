@@ -1,4 +1,4 @@
-# write your method here
+ # write your method here
 
 def crazy_strings(say_hello,yay_friends)
   puts "#{say_hello} #{yay_friends}"
